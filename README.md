@@ -14,7 +14,7 @@ http://slaxhosting.tk/
 social medias: 
 
 youtube: rhyslmao
-discord: bossman#6666
+discord: bossman#4379
 steam friend code: 1029458590
 coming soon. 
 
