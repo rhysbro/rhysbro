@@ -1,24 +1,37 @@
 hi im rhys, 
-i'm working on minecraft servers, html dev & more. 
 
-my current projects are.
-slaxhosting, 
-nocluerp
-coming soon. 
+
+im a upcoming developer. 
+
+im currently working on a few projects: 
+
+- FlashHosting
+- RKGames
+- RTunes Discord Bot
+- Custom Games Discord Bot
+- RMedia (Currently paused) 
+
+
+socials: 
+steam: https://steamcommunity.com/id/steveisdodgy/
+discord: rhys#6666
+yt: rhyslmao
+
+
+FlashHosting:
+
+discord.gg/flashhost
+website: https://flashhost.uk
+
+RTunes Discord Bot:
+http://rtunes.cf
+
+RMedia (Paused as i said)
+
+http://rmedia.cf
 
 websites: 
-http://www.browtf.cf/
-http://lifeisboring.rf.gd/
-http://slaxhosting.tk/
-
-social medias: 
-
-youtube: rhyslmao
-discord: bossman#4379
-steam friend code: 1029458590
-coming soon. 
-
-want to know more? add my discord and we can talk!
-
-
+http://browtf.cf/
+http://tapped.cf/?i=1
+http://lifeisboring.rf.gd/?i=1
 
